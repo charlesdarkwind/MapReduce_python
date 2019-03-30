@@ -1,7 +1,6 @@
 Jobs:
 
-
-FindMA: Finds the moving average of desired length in hours from a large dataset of prices sampled every 10 seconds
+[Finds the moving average of desired length in hours from a large dataset of prices sampled every 10 seconds](https://github.com/charlesdarkwind/MapReduce_python/blob/master/find_ma.py)
 <p align="center">
   <img src="https://raw.githubusercontent.com/charlesdarkwind/MapReduce_python/master/3_Find_MA.JPG">
 </p>
